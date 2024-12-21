@@ -1,0 +1,8 @@
+## Interface: 110000, 110002
+## Title: My Reminder Addon
+## Notes: A simple reminder addon with voice-over
+## Author: YourName
+## Version: 1.0
+## SavedVariables: MyReminderDB
+
+MyReminderAddon.lua
